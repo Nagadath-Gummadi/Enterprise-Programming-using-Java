@@ -1,0 +1,5 @@
+Program 1 : Write a JDBC application to implement DDL and DML commands.
+Description:
+In the application ,first create a student table with basic information like Name, RegNo along with 6 subjects.
+Thus add some required data into the table and then alter the table to add 2 columns namely total and grade at runtime.
+Update the total and grade columns based on the 6 subjects marks available in the database.
