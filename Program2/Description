@@ -1,0 +1,6 @@
+Program 2: Write an application to demonstrate HTTP Servlets.
+Description:
+In this application when application is deployed and launched user is prompted to enter his/her username to get login. 
+If the user enter valid credentials then forward the request to welcome page and thus the login is successful. 
+If the user enter invalid credentials then include.The reponse from error page into request page and thus login fails an error message 
+is displayed.
