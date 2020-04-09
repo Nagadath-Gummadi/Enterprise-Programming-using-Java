@@ -1,0 +1,9 @@
+Program 3:Write a program to demonstrate on session and cookies
+DESCRIPTION:
+In this application demonstrate cookies and sessions through online shopping. 
+First on entering the store, user choices in different streams is recorded in the form of a cookie.
+Then certain books related are displayed on the browser based upon the cookie data.
+The user selects some books and add them to his/her cart. At the payment stage, a session is created and will be redirected to a payment 
+confirmation stage usually a books portal where he/she pays the cart total amount within a stipulated time period to get his/her order
+confirmed. Else session expires and redirected to the store. The user is restricted to click the refresh or back button while his/her 
+session is active. If he/she does so session is invalidated immediately.
