@@ -59,4 +59,4 @@ Statement stm = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.C
     public String getServletInfo() {
         return "Short description";
     }
-}
+} 
