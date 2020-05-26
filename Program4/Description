@@ -1,4 +1,5 @@
 4.Write an application to integrate jsp and servlets. 
+
 Description: 
 In this application, when the user visits the website , he or she may regiser as a new user or login to continue as a existing user.
 If he wishes to login, then the user details are carried to a servlet where validation is done against provided credentials.
