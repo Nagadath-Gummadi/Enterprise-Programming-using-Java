@@ -1,6 +1,5 @@
 5.Write an application to demonstrate jsp standard and custom tags.
 DESCRIPTION: 
-
 In this application user enters his registration number to find his/her results. When user enters his registration number, 
 user results are fetched from the database and marks are displayed along with the grade. Grade is displayed in various colours depending
 upon the percentage of total marks attained by the user. The total of all the subjects is sent to the custom tag handler through the
